@@ -9,4 +9,4 @@ def print_hidden():
 
 
 if __name__ == "__main__":
-   print_hidden()
+    print_hidden()
